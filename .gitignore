@@ -175,3 +175,6 @@ cython_debug/
 
 # Working data stores
 temp_data
+msc_processing.html
+20250513_MSC_POC_Flux_Data.xlsx
+20250513_MSC_POC_Flux_Data.csv
